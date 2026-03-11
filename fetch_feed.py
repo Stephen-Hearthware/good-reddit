@@ -13,27 +13,39 @@ SUBREDDITS = [
     "upliftingnews",
 ]
 
-USER_AGENT = "good-reddit-reader/0.1"
-
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; GoodRedditReader/0.1; +https://github.com/Stephen-Hearthware/good-reddit)",
+    "Accept": "application/json",
+}
 
 def fetch(sub):
-    url = f"https://www.reddit.com/r/{sub}/top.json?t=day&limit=15"
+    url = f"https://old.reddit.com/r/{sub}/top.json?t=day&limit=15"
+
     r = requests.get(
         url,
-        headers={"User-Agent": USER_AGENT},
+        headers=HEADERS,
         timeout=20,
     )
+
     r.raise_for_status()
+
     return r.json()["data"]["children"]
 
 
 posts = []
 
 for sub in SUBREDDITS:
-    data = fetch(sub)
+    print(f"Fetching r/{sub}")
+
+    try:
+        data = fetch(sub)
+    except Exception as e:
+        print(f"Skipping r/{sub}: {e}")
+        continue
 
     for item in data:
         p = item["data"]
+
         preview = (p.get("selftext") or "")[:200]
 
         posts.append(
@@ -52,7 +64,10 @@ for sub in SUBREDDITS:
             }
         )
 
-    time.sleep(1)
+    time.sleep(2)
+
+
+print(f"Collected {len(posts)} posts")
 
 with open("feed.json", "w") as f:
     json.dump(
@@ -63,3 +78,5 @@ with open("feed.json", "w") as f:
         f,
         indent=2,
     )
+
+print("feed.json written")
