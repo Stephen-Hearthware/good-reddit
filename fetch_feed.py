@@ -1,7 +1,6 @@
 import json
 import time
-
-import requests
+import feedparser
 
 SUBREDDITS = [
     "askphilosophy",
@@ -13,23 +12,29 @@ SUBREDDITS = [
     "upliftingnews",
 ]
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; GoodRedditReader/0.1; +https://github.com/Stephen-Hearthware/good-reddit)",
-    "Accept": "application/json",
-}
-
 def fetch(sub):
-    url = f"https://old.reddit.com/r/{sub}/top.json?t=day&limit=15"
+    url = f"https://www.reddit.com/r/{sub}/top/.rss?t=day"
 
-    r = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=20,
-    )
+    feed = feedparser.parse(url)
 
-    r.raise_for_status()
+    posts = []
 
-    return r.json()["data"]["children"]
+    for entry in feed.entries[:15]:
+        posts.append({
+            "id": entry.id,
+            "title": entry.title,
+            "subreddit": sub,
+            "author": entry.author,
+            "score": 0,
+            "comments": 0,
+            "preview": entry.summary[:200] if hasattr(entry, "summary") else "",
+            "url": entry.link,
+            "commentsUrl": entry.link,
+            "domain": "reddit",
+            "category": "General"
+        })
+
+    return posts
 
 
 posts = []
@@ -38,33 +43,11 @@ for sub in SUBREDDITS:
     print(f"Fetching r/{sub}")
 
     try:
-        data = fetch(sub)
+        posts.extend(fetch(sub))
     except Exception as e:
         print(f"Skipping r/{sub}: {e}")
-        continue
 
-    for item in data:
-        p = item["data"]
-
-        preview = (p.get("selftext") or "")[:200]
-
-        posts.append(
-            {
-                "id": p["id"],
-                "title": p["title"],
-                "subreddit": p["subreddit"],
-                "author": p["author"],
-                "score": p["score"],
-                "comments": p["num_comments"],
-                "preview": preview,
-                "url": "https://reddit.com" + p["permalink"],
-                "commentsUrl": "https://reddit.com" + p["permalink"],
-                "domain": p["domain"],
-                "category": "General",
-            }
-        )
-
-    time.sleep(2)
+    time.sleep(1)
 
 
 print(f"Collected {len(posts)} posts")
@@ -73,10 +56,10 @@ with open("feed.json", "w") as f:
     json.dump(
         {
             "generated": int(time.time()),
-            "posts": posts,
+            "posts": posts
         },
         f,
-        indent=2,
+        indent=2
     )
 
 print("feed.json written")
