@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "feed-bot"
           git config --global user.email "bot@example.com"
-          git add feed.json
+          git add docs/feed.json
           git commit -m "update feed" || echo "no changes"
           git push
