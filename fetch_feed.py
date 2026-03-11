@@ -52,7 +52,7 @@ for sub in SUBREDDITS:
 
 print(f"Collected {len(posts)} posts")
 
-with open("feed.json", "w") as f:
+with open("docs/feed.json", "w") as f:
     json.dump(
         {
             "generated": int(time.time()),

@@ -87,7 +87,7 @@
 
     <script>
       async function loadFeed() {
-        const res = await fetch("../feed.json");
+        const res = await fetch("./feed.json");
         const data = await res.json();
 
         const generated = new Date(data.generated * 1000);
