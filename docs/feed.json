@@ -1,19 +1,6 @@
 {
-  "generated": 1773960807,
+  "generated": 1773962480,
   "posts": [
-    {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rxqi1l",
-      "title": "Please help me understand how \"a priori knowldge\" and \"analytic\" is different.",
-      "subreddit": "askphilosophy",
-      "author": "/u/Cunt_Cunt__Cunt",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://plato.stanford.edu/entries/analytic-synthetic/\">https://plato.stanford.edu/entries/analytic-synthetic/</a></p> <blockquote> <p>\u201cAnalytic\u201d sentences, ",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1rxqi1l/please_help_me_understand_how_a_priori_knowldge/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rxqi1l/please_help_me_understand_how_a_priori_knowldge/",
-      "domain": "reddit",
-      "category": "General"
-    },
     {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rxzkh1",
       "title": "Is it possible to believe something that you know to be false?",
@@ -24,6 +11,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>If I hold a belief A, does that necessarily imply that I think A to be true?</p> <p>What I'm getting at is that I have many beliefs (A,B,C...) and then I often encoun",
       "url": "https://www.reddit.com/r/askphilosophy/comments/1rxzkh1/is_it_possible_to_believe_something_that_you_know/",
       "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rxzkh1/is_it_possible_to_believe_something_that_you_know/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rxqi1l",
+      "title": "Please help me understand how \"a priori knowldge\" and \"analytic\" is different.",
+      "subreddit": "askphilosophy",
+      "author": "/u/Cunt_Cunt__Cunt",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://plato.stanford.edu/entries/analytic-synthetic/\">https://plato.stanford.edu/entries/analytic-synthetic/</a></p> <blockquote> <p>\u201cAnalytic\u201d sentences, ",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1rxqi1l/please_help_me_understand_how_a_priori_knowldge/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rxqi1l/please_help_me_understand_how_a_priori_knowldge/",
       "domain": "reddit",
       "category": "General"
     },
@@ -288,19 +288,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ry7pir",
-      "title": "How did Orville Wright respond to the use of airplanes in two world wars?",
-      "subreddit": "AskHistorians",
-      "author": "/u/Eriacle",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>The Wright Brothers invented the airplane in 1903. Wilbur Wright died in 1912. Orville Wright died in 1948. That means Wilbur experienced neither world war, while Orv",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1ry7pir/how_did_orville_wright_respond_to_the_use_of/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ry7pir/how_did_orville_wright_respond_to_the_use_of/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ry7g5c",
       "title": "How did European soldiers view American soldiers during WWI?",
       "subreddit": "AskHistorians",
@@ -310,6 +297,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>Would love to see sources!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xbrooksie\"> /u/xbrooksie </a> <br /> <span><a href=\"",
       "url": "https://www.reddit.com/r/AskHistorians/comments/1ry7g5c/how_did_european_soldiers_view_american_soldiers/",
       "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ry7g5c/how_did_european_soldiers_view_american_soldiers/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ry7pir",
+      "title": "How did Orville Wright respond to the use of airplanes in two world wars?",
+      "subreddit": "AskHistorians",
+      "author": "/u/Eriacle",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>The Wright Brothers invented the airplane in 1903. Wilbur Wright died in 1912. Orville Wright died in 1948. That means Wilbur experienced neither world war, while Orv",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1ry7pir/how_did_orville_wright_respond_to_the_use_of/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ry7pir/how_did_orville_wright_respond_to_the_use_of/",
       "domain": "reddit",
       "category": "General"
     },
@@ -353,19 +353,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1rxz70a",
-      "title": "The American Civil War: According to their own statements, letters and journals, what was the typical motive for an average Confederate soldier?",
-      "subreddit": "AskHistorians",
-      "author": "/u/Jerswar",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>A history Youtuber read a few war-time letters written by Confederate soldiers, each of which revolved entirely around vicious racism. Was this cherry picking, or was",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1rxz70a/the_american_civil_war_according_to_their_own/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1rxz70a/the_american_civil_war_according_to_their_own/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ry9jnj",
       "title": "When and how did dungeons become so central to the popular perception of the Middle Ages? Did people at the time have much reason to think about dungeons or even much of an idea what they looked like inside?",
       "subreddit": "AskHistorians",
@@ -375,6 +362,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>My impression is that people today tend to think of dungeons as basically the scarier medieval analogue of jail or prison. When I say &quot;dungeon&quot; I mean like ",
       "url": "https://www.reddit.com/r/AskHistorians/comments/1ry9jnj/when_and_how_did_dungeons_become_so_central_to/",
       "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ry9jnj/when_and_how_did_dungeons_become_so_central_to/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1rxz70a",
+      "title": "The American Civil War: According to their own statements, letters and journals, what was the typical motive for an average Confederate soldier?",
+      "subreddit": "AskHistorians",
+      "author": "/u/Jerswar",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>A history Youtuber read a few war-time letters written by Confederate soldiers, each of which revolved entirely around vicious racism. Was this cherry picking, or was",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1rxz70a/the_american_civil_war_according_to_their_own/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1rxz70a/the_american_civil_war_according_to_their_own/",
       "domain": "reddit",
       "category": "General"
     },
@@ -574,6 +574,19 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/meditation/top/t3_1ryf0ez",
+      "title": "Losing meta awareness over time during meditation- is this normal?",
+      "subreddit": "meditation",
+      "author": "/u/jellyhook",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I am fairly new to meditating and have been meditating everyday for about 2 weeks (doing mostly body scan meditations). </p> <p>When I first started doing these medit",
+      "url": "https://www.reddit.com/r/Meditation/comments/1ryf0ez/losing_meta_awareness_over_time_during_meditation/",
+      "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1ryf0ez/losing_meta_awareness_over_time_during_meditation/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/meditation/top/t3_1ry9pzg",
       "title": "Slight discomfort after meditation",
       "subreddit": "meditation",
@@ -583,19 +596,6 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys. Newbie meditator here. </p> <p>I meditate for about 20 minutes in the evening, and then spend next 20 minutes or so laying down, observing my thoughts and se",
       "url": "https://www.reddit.com/r/Meditation/comments/1ry9pzg/slight_discomfort_after_meditation/",
       "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1ry9pzg/slight_discomfort_after_meditation/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/meditation/top/t3_1ry7lxx",
-      "title": "Different effects of using waking up app and doing vipassana?",
-      "subreddit": "meditation",
-      "author": "/u/Shot_Bandicoot_395",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I've done a bit of vipassana, following along with YouTube videos. I've also done some daily meditations using the Waking Up app. I'm wondering what the different eff",
-      "url": "https://www.reddit.com/r/Meditation/comments/1ry7lxx/different_effects_of_using_waking_up_app_and/",
-      "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1ry7lxx/different_effects_of_using_waking_up_app_and/",
       "domain": "reddit",
       "category": "General"
     },
@@ -730,15 +730,15 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1rxjax9",
-      "title": "Bought a table that seems to be tearing itself apart",
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1rybte0",
+      "title": "An exterior door I built inspired by Norm Abrams",
       "subreddit": "woodworking",
-      "author": "/u/MajorStoney",
+      "author": "/u/Acceptable_Noise651",
       "score": 0,
       "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rxjax9/bought_a_table_that_seems_to_be_tearing_itself/\"> <img alt=\"Bought a table that seems to be tearing itself apart\" src=\"h",
-      "url": "https://www.reddit.com/r/woodworking/comments/1rxjax9/bought_a_table_that_seems_to_be_tearing_itself/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rxjax9/bought_a_table_that_seems_to_be_tearing_itself/",
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/\"> <img alt=\"An exterior door I built inspired by Norm Abrams\" src=\"htt",
+      "url": "https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/",
       "domain": "reddit",
       "category": "General"
     },
@@ -752,19 +752,6 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rxkmx6/accidental_grain_match/\"> <img alt=\"Accidental grain match\" src=\"https://preview.redd.it/d8za20my5wpg1.jpeg?width=640&am",
       "url": "https://www.reddit.com/r/woodworking/comments/1rxkmx6/accidental_grain_match/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rxkmx6/accidental_grain_match/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1rybte0",
-      "title": "An exterior door I built inspired by Norm Abrams",
-      "subreddit": "woodworking",
-      "author": "/u/Acceptable_Noise651",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/\"> <img alt=\"An exterior door I built inspired by Norm Abrams\" src=\"htt",
-      "url": "https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/",
       "domain": "reddit",
       "category": "General"
     },
@@ -791,6 +778,19 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1ry0320/cut_18_too_much_now_what_do_i_do/\"> <img alt=\"Cut 1/8 too much now what do i do?\" src=\"https://preview.redd.it/shgrrp6x4",
       "url": "https://www.reddit.com/r/woodworking/comments/1ry0320/cut_18_too_much_now_what_do_i_do/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1ry0320/cut_18_too_much_now_what_do_i_do/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1rxtmtp",
+      "title": "My first river table",
+      "subreddit": "woodworking",
+      "author": "/u/someguy900009",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rxtmtp/my_first_river_table/\"> <img alt=\"My first river table\" src=\"https://preview.redd.it/lmnxpf8bcypg1.jpeg?width=640&amp;cr",
+      "url": "https://www.reddit.com/r/woodworking/comments/1rxtmtp/my_first_river_table/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rxtmtp/my_first_river_table/",
       "domain": "reddit",
       "category": "General"
     },
@@ -964,19 +964,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1ry0p0u",
-      "title": "South Knoxville church to close and donate land to Ijams Nature Center",
-      "subreddit": "upliftingnews",
-      "author": "/u/RadioFlyerWagon",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1ry0p0u/south_knoxville_church_to_close_and_donate_land/\"> <img alt=\"South Knoxville church to close and donate land to Ijams ",
-      "url": "https://www.reddit.com/r/UpliftingNews/comments/1ry0p0u/south_knoxville_church_to_close_and_donate_land/",
-      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1ry0p0u/south_knoxville_church_to_close_and_donate_land/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/upliftingnews/top/t3_1rycg8z",
       "title": "The world's happiest countries for 2026 (Article by: Lindsey Galloway, BBC)",
       "subreddit": "upliftingnews",
@@ -986,6 +973,19 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1rycg8z/the_worlds_happiest_countries_for_2026_article_by/\"> <img alt=\"The world's happiest countries for 2026 (Article by: Li",
       "url": "https://www.reddit.com/r/UpliftingNews/comments/1rycg8z/the_worlds_happiest_countries_for_2026_article_by/",
       "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1rycg8z/the_worlds_happiest_countries_for_2026_article_by/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1ry0p0u",
+      "title": "South Knoxville church to close and donate land to Ijams Nature Center",
+      "subreddit": "upliftingnews",
+      "author": "/u/RadioFlyerWagon",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1ry0p0u/south_knoxville_church_to_close_and_donate_land/\"> <img alt=\"South Knoxville church to close and donate land to Ijams ",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1ry0p0u/south_knoxville_church_to_close_and_donate_land/",
+      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1ry0p0u/south_knoxville_church_to_close_and_donate_land/",
       "domain": "reddit",
       "category": "General"
     }
