@@ -1,5 +1,5 @@
 {
-  "generated": 1774029682,
+  "generated": 1774033789,
   "posts": [
     {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ryv4i3",
@@ -54,19 +54,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ryggfb",
-      "title": "Does Agrippa\u2019s Trilemma Really Make Knowledge Impossible?",
-      "subreddit": "askphilosophy",
-      "author": "/u/Glittering-Log-8375",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Agrippa\u2019s Trilemma claims that every attempt to justify a belief ends in one of three problems: infinite regress, circular reasoning, or a dogmatic stopping point. Bu",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1ryggfb/does_agrippas_trilemma_really_make_knowledge/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ryggfb/does_agrippas_trilemma_really_make_knowledge/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rz0bc1",
       "title": "At what point does one become a person?",
       "subreddit": "askphilosophy",
@@ -76,6 +63,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>What constitutes personhood? Who is a person and who is not a person? Do we become a person or are we always a person at all times? </p> <p>Is everyone a person? Why?",
       "url": "https://www.reddit.com/r/askphilosophy/comments/1rz0bc1/at_what_point_does_one_become_a_person/",
       "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rz0bc1/at_what_point_does_one_become_a_person/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ryggfb",
+      "title": "Does Agrippa\u2019s Trilemma Really Make Knowledge Impossible?",
+      "subreddit": "askphilosophy",
+      "author": "/u/Glittering-Log-8375",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Agrippa\u2019s Trilemma claims that every attempt to justify a belief ends in one of three problems: infinite regress, circular reasoning, or a dogmatic stopping point. Bu",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1ryggfb/does_agrippas_trilemma_really_make_knowledge/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ryggfb/does_agrippas_trilemma_really_make_knowledge/",
       "domain": "reddit",
       "category": "General"
     },
@@ -132,15 +132,41 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ry8bwc",
-      "title": "Does everything that exists exist physically, or are there some things that exist apart from material embodiment?",
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ryqxrq",
+      "title": "Non-wellfounded proofs in philosophy?",
       "subreddit": "askphilosophy",
-      "author": "/u/Firepea33",
+      "author": "/u/OkGarage23",
       "score": 0,
       "comments": 0,
-      "preview": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Firepea33\"> /u/Firepea33 </a> <br /> <span><a href=\"https://www.reddit.com/r/askphilosophy/comments/1ry8bwc/does_everything_that_exists_ex",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1ry8bwc/does_everything_that_exists_exist_physically_or/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ry8bwc/does_everything_that_exists_exist_physically_or/",
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Recently, I've been hearing about non-wellfounded proofs in logic (for example <a href=\"https://arxiv.org/pdf/1401.4002\">this paper</a>), where there are some contrai",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1ryqxrq/nonwellfounded_proofs_in_philosophy/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ryqxrq/nonwellfounded_proofs_in_philosophy/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rz25ux",
+      "title": "Philosophical advice on becoming more temperate",
+      "subreddit": "askphilosophy",
+      "author": "/u/Dull_Narwhal4792",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I want to be influenced less by my desires, and wish to become a more temperate individual. Does anyone know of any philosophers works that may help me in this situat",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1rz25ux/philosophical_advice_on_becoming_more_temperate/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rz25ux/philosophical_advice_on_becoming_more_temperate/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rz1rh8",
+      "title": "How did you build your ethical decision making framework?",
+      "subreddit": "askphilosophy",
+      "author": "/u/Zestyclose_Elk7198",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I am really struggling with how to build my personal ethical framework. I just recently read Ethics for the real world, and it talks about how you need to have an eth",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1rz1rh8/how_did_you_build_your_ethical_decision_making/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rz1rh8/how_did_you_build_your_ethical_decision_making/",
       "domain": "reddit",
       "category": "General"
     },
@@ -158,19 +184,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ryqxrq",
-      "title": "Non-wellfounded proofs in philosophy?",
-      "subreddit": "askphilosophy",
-      "author": "/u/OkGarage23",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Recently, I've been hearing about non-wellfounded proofs in logic (for example <a href=\"https://arxiv.org/pdf/1401.4002\">this paper</a>), where there are some contrai",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1ryqxrq/nonwellfounded_proofs_in_philosophy/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ryqxrq/nonwellfounded_proofs_in_philosophy/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ryqr96",
       "title": "Is there any serious philosophical or metaphysical argument that time itself is accelerating, rather than our perception of it changing?",
       "subreddit": "askphilosophy",
@@ -180,19 +193,6 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>There's a widespread subjective experience, especially post-2020, that time seems to be moving faster. You see it everywhere: YouTube comment sections, Reddit threads",
       "url": "https://www.reddit.com/r/askphilosophy/comments/1ryqr96/is_there_any_serious_philosophical_or/",
       "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ryqr96/is_there_any_serious_philosophical_or/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1ry9gi6",
-      "title": "Is everything Natural?",
-      "subreddit": "askphilosophy",
-      "author": "/u/pillowstealer07",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I was laying in bed thinking about what is natural vs what is artificial. My theory is that technically everything is natural. Example: Beehives are considered &quot;",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1ry9gi6/is_everything_natural/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1ry9gi6/is_everything_natural/",
       "domain": "reddit",
       "category": "General"
     },
@@ -275,19 +275,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ry7pir",
-      "title": "How did Orville Wright respond to the use of airplanes in two world wars?",
-      "subreddit": "AskHistorians",
-      "author": "/u/Eriacle",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>The Wright Brothers invented the airplane in 1903. Wilbur Wright died in 1912. Orville Wright died in 1948. That means Wilbur experienced neither world war, while Orv",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1ry7pir/how_did_orville_wright_respond_to_the_use_of/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ry7pir/how_did_orville_wright_respond_to_the_use_of/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ryljnt",
       "title": "Was Hatshepsut's erasure by future pharaohs really as unique as pop culture constantly insists?",
       "subreddit": "AskHistorians",
@@ -340,6 +327,32 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1rz2spw",
+      "title": "Were police officers in Nazi Germany generally able to perform their duties as police officers without Nazi influencing their duties or were they considered complicit in the overall Nazi crimes?",
+      "subreddit": "AskHistorians",
+      "author": "/u/Metallica1175",
+      "score": 0,
+      "comments": 0,
+      "preview": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Metallica1175\"> /u/Metallica1175 </a> <br /> <span><a href=\"https://www.reddit.com/r/AskHistorians/comments/1rz2spw/were_police_officers_i",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1rz2spw/were_police_officers_in_nazi_germany_generally/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1rz2spw/were_police_officers_in_nazi_germany_generally/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1rz3y7f",
+      "title": "Did pulp fantasy writers sincerely believe their exaggerated depictions of other cultures?",
+      "subreddit": "AskHistorians",
+      "author": "/u/Dry-Translator-7500",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I absolutely <em>love</em> the fantasy stories of Robert E. Howard, Clark Ashton Smith, C. L. Moore, H. P. Lovecraft, and others. And although I'm Filipino, I'm usual",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1rz3y7f/did_pulp_fantasy_writers_sincerely_believe_their/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1rz3y7f/did_pulp_fantasy_writers_sincerely_believe_their/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ryr167",
       "title": "In the opening chapter of \"Slaughterhouse Five,\" there's a prisoner of war exchange between eastern and western allies. How accurate is the account, and in what context did it occur?",
       "subreddit": "AskHistorians",
@@ -375,19 +388,6 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>How deep into the past did the ancient civilisations of the Mediterranean &amp; near east have knowledge of, as far as we can tell? Were late Babylonians aware their ",
       "url": "https://www.reddit.com/r/AskHistorians/comments/1ryzagv/how_aware_were_ancient_civilisations_of_their/",
       "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ryzagv/how_aware_were_ancient_civilisations_of_their/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1ry9r5z",
-      "title": "How did brigade become the most commonly accepted term for a group of jihadist fighters in the Middle East?",
-      "subreddit": "AskHistorians",
-      "author": "/u/Lost-Photo-631",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I was listening to Steve Coll\u2019s book The <em>bin Ladens</em> and he mentions Osama bin Laden \u201ccreating his own brigade\u201c in Afghanistan. I'm not exactly sure which &qu",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1ry9r5z/how_did_brigade_become_the_most_commonly_accepted/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1ry9r5z/how_did_brigade_become_the_most_commonly_accepted/",
       "domain": "reddit",
       "category": "General"
     },
@@ -496,19 +496,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/meditation/top/t3_1ry8o77",
-      "title": "What do you think about how I begin to meditate?",
-      "subreddit": "meditation",
-      "author": "/u/Tidjef_Lowizon",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I began to meditate almost everyday and it changed my life in so many ways\u2026</p> <p>I\u2019m a total beginner and I did it in a way almost instinctively listening to how my",
-      "url": "https://www.reddit.com/r/Meditation/comments/1ry8o77/what_do_you_think_about_how_i_begin_to_meditate/",
-      "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1ry8o77/what_do_you_think_about_how_i_begin_to_meditate/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/meditation/top/t3_1rz04pq",
       "title": "How did you move from apps to a deeper practice?",
       "subreddit": "meditation",
@@ -613,6 +600,19 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/meditation/top/t3_1rybnwe",
+      "title": "Weird meditation experience, am i reaching?? Is this telepathy, fortune telling or what??",
+      "subreddit": "meditation",
+      "author": "/u/Various_Swordfish535",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Here's some context first before i can explain the weird meditation experience. Ill try and keep it short. So about 2 years ago my grandma and cousin got jumped and r",
+      "url": "https://www.reddit.com/r/Meditation/comments/1rybnwe/weird_meditation_experience_am_i_reaching_is_this/",
+      "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1rybnwe/weird_meditation_experience_am_i_reaching_is_this/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1ryhg8e",
       "title": "My mom passed recently and has this chunk of wood. I have multiple people who want it. Is it awesome or something?",
       "subreddit": "woodworking",
@@ -639,19 +639,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1ry8wvz",
-      "title": "Miter saw station & storage made entirely from scrap",
-      "subreddit": "woodworking",
-      "author": "/u/-jerobe-",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1ry8wvz/miter_saw_station_storage_made_entirely_from_scrap/\"> <img alt=\"Miter saw station &amp; storage made entirely from scrap",
-      "url": "https://www.reddit.com/r/woodworking/comments/1ry8wvz/miter_saw_station_storage_made_entirely_from_scrap/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1ry8wvz/miter_saw_station_storage_made_entirely_from_scrap/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1rz0qdv",
       "title": "What tool would you use to do this? The divots",
       "subreddit": "woodworking",
@@ -661,19 +648,6 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rz0qdv/what_tool_would_you_use_to_do_this_the_divots/\"> <img alt=\"What tool would you use to do this? The divots\" src=\"https://",
       "url": "https://www.reddit.com/r/woodworking/comments/1rz0qdv/what_tool_would_you_use_to_do_this_the_divots/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rz0qdv/what_tool_would_you_use_to_do_this_the_divots/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1rysx17",
-      "title": "Made this ring box using Finnish curly birch (visakoivu)",
-      "subreddit": "woodworking",
-      "author": "/u/Significant_Cut_2275",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rysx17/made_this_ring_box_using_finnish_curly_birch/\"> <img alt=\"Made this ring box using Finnish curly birch (visakoivu)\" src=",
-      "url": "https://www.reddit.com/r/woodworking/comments/1rysx17/made_this_ring_box_using_finnish_curly_birch/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rysx17/made_this_ring_box_using_finnish_curly_birch/",
       "domain": "reddit",
       "category": "General"
     },
@@ -691,6 +665,19 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1rysx17",
+      "title": "Made this ring box using Finnish curly birch (visakoivu)",
+      "subreddit": "woodworking",
+      "author": "/u/Significant_Cut_2275",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rysx17/made_this_ring_box_using_finnish_curly_birch/\"> <img alt=\"Made this ring box using Finnish curly birch (visakoivu)\" src=",
+      "url": "https://www.reddit.com/r/woodworking/comments/1rysx17/made_this_ring_box_using_finnish_curly_birch/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rysx17/made_this_ring_box_using_finnish_curly_birch/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1rybte0",
       "title": "An exterior door I built inspired by Norm Abrams",
       "subreddit": "woodworking",
@@ -700,6 +687,19 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/\"> <img alt=\"An exterior door I built inspired by Norm Abrams\" src=\"htt",
       "url": "https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rybte0/an_exterior_door_i_built_inspired_by_norm_abrams/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1rytobu",
+      "title": "Walnut floor lamp thats als0 a glassware cabinet",
+      "subreddit": "woodworking",
+      "author": "/u/iy7858",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rytobu/walnut_floor_lamp_thats_als0_a_glassware_cabinet/\"> <img alt=\"Walnut floor lamp thats als0 a glassware cabinet\" src=\"htt",
+      "url": "https://www.reddit.com/r/woodworking/comments/1rytobu/walnut_floor_lamp_thats_als0_a_glassware_cabinet/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rytobu/walnut_floor_lamp_thats_als0_a_glassware_cabinet/",
       "domain": "reddit",
       "category": "General"
     },
@@ -717,6 +717,19 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1rz3arm",
+      "title": "Wood sterering wheels",
+      "subreddit": "woodworking",
+      "author": "/u/Lopoland21",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rz3arm/wood_sterering_wheels/\"> <img alt=\"Wood sterering wheels\" src=\"https://preview.redd.it/moz98j0vn8qg1.jpeg?width=640&amp;",
+      "url": "https://www.reddit.com/r/woodworking/comments/1rz3arm/wood_sterering_wheels/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rz3arm/wood_sterering_wheels/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1ryejpd",
       "title": "Refinished table top",
       "subreddit": "woodworking",
@@ -726,19 +739,6 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1ryejpd/refinished_table_top/\"> <img alt=\"Refinished table top\" src=\"https://external-preview.redd.it/dzVlajl2cmp2MnFnMTqUI3KUPJ",
       "url": "https://www.reddit.com/r/woodworking/comments/1ryejpd/refinished_table_top/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1ryejpd/refinished_table_top/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1rytobu",
-      "title": "Walnut floor lamp thats als0 a glassware cabinet",
-      "subreddit": "woodworking",
-      "author": "/u/iy7858",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rytobu/walnut_floor_lamp_thats_als0_a_glassware_cabinet/\"> <img alt=\"Walnut floor lamp thats als0 a glassware cabinet\" src=\"htt",
-      "url": "https://www.reddit.com/r/woodworking/comments/1rytobu/walnut_floor_lamp_thats_als0_a_glassware_cabinet/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rytobu/walnut_floor_lamp_thats_als0_a_glassware_cabinet/",
       "domain": "reddit",
       "category": "General"
     },
@@ -769,19 +769,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1ryafwk",
-      "title": "Best way fill in or fix imperfections like these?",
-      "subreddit": "woodworking",
-      "author": "/u/HashStash",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1ryafwk/best_way_fill_in_or_fix_imperfections_like_these/\"> <img alt=\"Best way fill in or fix imperfections like these?\" src=\"ht",
-      "url": "https://www.reddit.com/r/woodworking/comments/1ryafwk/best_way_fill_in_or_fix_imperfections_like_these/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1ryafwk/best_way_fill_in_or_fix_imperfections_like_these/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1ryqetn",
       "title": "Is this hornbeam usable for a mallet? I harvested it 2 days ago from a tree that's fallen in autumn",
       "subreddit": "woodworking",
@@ -795,6 +782,19 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1ryafwk",
+      "title": "Best way fill in or fix imperfections like these?",
+      "subreddit": "woodworking",
+      "author": "/u/HashStash",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1ryafwk/best_way_fill_in_or_fix_imperfections_like_these/\"> <img alt=\"Best way fill in or fix imperfections like these?\" src=\"ht",
+      "url": "https://www.reddit.com/r/woodworking/comments/1ryafwk/best_way_fill_in_or_fix_imperfections_like_these/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1ryafwk/best_way_fill_in_or_fix_imperfections_like_these/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1ryajh1",
       "title": "Dovetails getting better, but accurately fitting the bottom is still not great.",
       "subreddit": "woodworking",
@@ -804,19 +804,6 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1ryajh1/dovetails_getting_better_but_accurately_fitting/\"> <img alt=\"Dovetails getting better, but accurately fitting the bottom",
       "url": "https://www.reddit.com/r/woodworking/comments/1ryajh1/dovetails_getting_better_but_accurately_fitting/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1ryajh1/dovetails_getting_better_but_accurately_fitting/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1ry8aht",
-      "title": "Iran war energy shock sparks global push to reduce fossil fuel dependence",
-      "subreddit": "upliftingnews",
-      "author": "/u/caspy7",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1ry8aht/iran_war_energy_shock_sparks_global_push_to/\"> <img alt=\"Iran war energy shock sparks global push to reduce fossil fue",
-      "url": "https://www.reddit.com/r/UpliftingNews/comments/1ry8aht/iran_war_energy_shock_sparks_global_push_to/",
-      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1ry8aht/iran_war_energy_shock_sparks_global_push_to/",
       "domain": "reddit",
       "category": "General"
     },
@@ -856,6 +843,19 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1rycg8z/the_worlds_happiest_countries_for_2026_article_by/\"> <img alt=\"The world's happiest countries for 2026 (Article by: Li",
       "url": "https://www.reddit.com/r/UpliftingNews/comments/1rycg8z/the_worlds_happiest_countries_for_2026_article_by/",
       "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1rycg8z/the_worlds_happiest_countries_for_2026_article_by/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1rz2g59",
+      "title": "Uganda reintroduces rhinos into a protected area where they have been extinct since 1983",
+      "subreddit": "upliftingnews",
+      "author": "/u/AudibleNod",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1rz2g59/uganda_reintroduces_rhinos_into_a_protected_area/\"> <img alt=\"Uganda reintroduces rhinos into a protected area where t",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1rz2g59/uganda_reintroduces_rhinos_into_a_protected_area/",
+      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1rz2g59/uganda_reintroduces_rhinos_into_a_protected_area/",
       "domain": "reddit",
       "category": "General"
     },
