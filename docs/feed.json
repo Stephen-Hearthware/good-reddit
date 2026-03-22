@@ -1,5 +1,5 @@
 {
-  "generated": 1774187910,
+  "generated": 1774189653,
   "posts": [
     {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s077wq",
@@ -24,6 +24,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious about the subject. I'd like to start reading, learning and understanding philosophy in a practical way.</p> <p>For a complete novice (who barely reads any",
       "url": "https://www.reddit.com/r/askphilosophy/comments/1rzztca/where_to_start_with_philosophy/",
       "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rzztca/where_to_start_with_philosophy/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0mfek",
+      "title": "Why is formal logic in philosophy taught with an inclusive OR only while engineers usually learn a logic with XOR?",
+      "subreddit": "askphilosophy",
+      "author": "/u/ofghoniston",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>All formal logic philosophy texts I see always define OR as inclusive, such that A OR B is also true if both A and B are true, it doesn't mean pick one but not the ot",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1s0mfek/why_is_formal_logic_in_philosophy_taught_with_an/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0mfek/why_is_formal_logic_in_philosophy_taught_with_an/",
       "domain": "reddit",
       "category": "General"
     },
@@ -54,32 +67,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0jahb",
-      "title": "Book recommendations for overview of German Romantic era",
-      "subreddit": "askphilosophy",
-      "author": "/u/word_pasta",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I\u2019m a translator active in Translation Studies, in the course of which I\u2019ve written on Schleiermacher\u2019s translation hermeneutics and Benjamin\u2019s philoso",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1s0jahb/book_recommendations_for_overview_of_german/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0jahb/book_recommendations_for_overview_of_german/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rzu47c",
-      "title": "Is there such a thing as 'anti-egalitaranism but humanist'?",
-      "subreddit": "askphilosophy",
-      "author": "/u/Dry-Skin6891",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I'm not that read into philosophy so tolerate any missing links or inconsistencies in my question. </p> <p>In my current perception, we have this cohort of Land&amp;C",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1rzu47c/is_there_such_a_thing_as_antiegalitaranism_but/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rzu47c/is_there_such_a_thing_as_antiegalitaranism_but/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0j9hf",
       "title": "Why isn't the form of Spinoza's Ethics more widely adopted?",
       "subreddit": "askphilosophy",
@@ -102,6 +89,32 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>I don\u2019t mean this in a suicidal sense. I\u2019m not particularly depressed, in fact since I started taking meds for my adhd I have been the happiest I\u2019ve ever been in my l",
       "url": "https://www.reddit.com/r/askphilosophy/comments/1s0gxcv/whats_the_point_of_living_seriously_no_fluff/",
       "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0gxcv/whats_the_point_of_living_seriously_no_fluff/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0jahb",
+      "title": "Book recommendations for overview of German Romantic era",
+      "subreddit": "askphilosophy",
+      "author": "/u/word_pasta",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I\u2019m a translator active in Translation Studies, in the course of which I\u2019ve written on Schleiermacher\u2019s translation hermeneutics and Benjamin\u2019s philoso",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1s0jahb/book_recommendations_for_overview_of_german/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0jahb/book_recommendations_for_overview_of_german/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rzu47c",
+      "title": "Is there such a thing as 'anti-egalitaranism but humanist'?",
+      "subreddit": "askphilosophy",
+      "author": "/u/Dry-Skin6891",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I'm not that read into philosophy so tolerate any missing links or inconsistencies in my question. </p> <p>In my current perception, we have this cohort of Land&amp;C",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1rzu47c/is_there_such_a_thing_as_antiegalitaranism_but/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rzu47c/is_there_such_a_thing_as_antiegalitaranism_but/",
       "domain": "reddit",
       "category": "General"
     },
@@ -145,6 +158,32 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0mesm",
+      "title": "Language seems to shape the mind/experience. How can I expand my vocabulary in the most positivity creating way?",
+      "subreddit": "askphilosophy",
+      "author": "/u/Awesomeman360",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking to expand my vocabulary and I've been hearing philosophers and scientist say that language seems to shape the mind/experience.</p> <p>I heard someone desc",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1s0mesm/language_seems_to_shape_the_mindexperience_how/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0mesm/language_seems_to_shape_the_mindexperience_how/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0ly33",
+      "title": "I want to incorporate an understanding of philosophy into my Social work education",
+      "subreddit": "askphilosophy",
+      "author": "/u/baybeglisten",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I am 22 and a student of social work, aspiring to work in therapeutic settings. I feel like the widespread growth of therapy, self-help etc. has kind of taken the ess",
+      "url": "https://www.reddit.com/r/askphilosophy/comments/1s0ly33/i_want_to_incorporate_an_understanding_of/",
+      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0ly33/i_want_to_incorporate_an_understanding_of/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s0hn4y",
       "title": "Of all the dialogues in which Plato could have addressed Heraclitean views, why did he choose the Cratylus?",
       "subreddit": "askphilosophy",
@@ -154,45 +193,6 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>This dialogue was a doozy. I think I understand the big idea of what it was about. Plato was satirizing Prodicus-style sophistry and its overemphasis on etymology and",
       "url": "https://www.reddit.com/r/askphilosophy/comments/1s0hn4y/of_all_the_dialogues_in_which_plato_could_have/",
       "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s0hn4y/of_all_the_dialogues_in_which_plato_could_have/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s044a2",
-      "title": "What do academic/serious philosophy focus on?",
-      "subreddit": "askphilosophy",
-      "author": "/u/AccomplishedCall7176",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. Just as the question states i was wondering what do academic philosophy usually focus on.</p> <p>To give you a bit of background i am a person that ha",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1s044a2/what_do_academicserious_philosophy_focus_on/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s044a2/what_do_academicserious_philosophy_focus_on/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1s03bt8",
-      "title": "Is Plato\u2019s and Aristotle\u2019s Philosophy considered to be apart of The First Position of Thought with Respect to Objectivity?",
-      "subreddit": "askphilosophy",
-      "author": "/u/rogerjedi",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I am reading the Encyclopedia of Logic today and I am sorta stuck in the last line of \u00a736. There Hegel says:</p> <p>\u201cThe material of this metaphysics [t",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1s03bt8/is_platos_and_aristotles_philosophy_considered_to/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1s03bt8/is_platos_and_aristotles_philosophy_considered_to/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/askphilosophy/top/t3_1rzvoc8",
-      "title": "Can God 'will what it will'?",
-      "subreddit": "askphilosophy",
-      "author": "/u/Ok_Instance_1170",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>If God started as a blank slate and had the ability to define its own character, why would it define itself or do so in a particular way. like everything, it's decisi",
-      "url": "https://www.reddit.com/r/askphilosophy/comments/1rzvoc8/can_god_will_what_it_will/",
-      "commentsUrl": "https://www.reddit.com/r/askphilosophy/comments/1rzvoc8/can_god_will_what_it_will/",
       "domain": "reddit",
       "category": "General"
     },
@@ -314,32 +314,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s05snr",
-      "title": "In medieval England, what did royal \u201ccontrol\u201d actually mean in everyday practical terms for ordinary people, and how much would they have known about the laws they lived under?",
-      "subreddit": "AskHistorians",
-      "author": "/u/Cold_Box_3219",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>When historians say that the English crown \u201ccontrolled\u201d a region, what did that actually amount to for ordinary people in medieval England?</p> <p>Through what instit",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1s05snr/in_medieval_england_what_did_royal_control/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1s05snr/in_medieval_england_what_did_royal_control/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1rzxkob",
-      "title": "Cucumbers and avocados are berries, strawberries aren't, carrots are roots, broccoli is a flower, spinach is a leaf. Since when have we been classifying such diverse plant parts colloquially into \"fruits\" and \"vegetables\"? Assuming this system isn't universal, who exactly is \"we\"?",
-      "subreddit": "AskHistorians",
-      "author": "/u/ExternalBoysenberry",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I don't want to make the question too big, but would also be curious to hear about categories for &quot;stuff that grows that we eat&quot; beyond the produce aisle: h",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1rzxkob/cucumbers_and_avocados_are_berries_strawberries/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1rzxkob/cucumbers_and_avocados_are_berries_strawberries/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s0juog",
       "title": "The weirdest dish I've encountered in Germany is the Mettigel: minced raw pork molded into a hedgehog shape and served as a party snack. People tell me it's traditional, but they can't have been doing this before modern medicine and hygiene, right?",
       "subreddit": "AskHistorians",
@@ -353,15 +327,28 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s03v6k",
-      "title": "Did the writers of the U.S. Constitution consciously reject snap elections in favor of fixed terms? If so, why? Or were snap elections introduced to Britain after American independence?",
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s05snr",
+      "title": "In medieval England, what did royal \u201ccontrol\u201d actually mean in everyday practical terms for ordinary people, and how much would they have known about the laws they lived under?",
       "subreddit": "AskHistorians",
-      "author": "/u/ArmandoAlvarezWF",
+      "author": "/u/Cold_Box_3219",
       "score": 0,
       "comments": 0,
-      "preview": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ArmandoAlvarezWF\"> /u/ArmandoAlvarezWF </a> <br /> <span><a href=\"https://www.reddit.com/r/AskHistorians/comments/1s03v6k/did_the_writers_",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1s03v6k/did_the_writers_of_the_us_constitution/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1s03v6k/did_the_writers_of_the_us_constitution/",
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>When historians say that the English crown \u201ccontrolled\u201d a region, what did that actually amount to for ordinary people in medieval England?</p> <p>Through what instit",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1s05snr/in_medieval_england_what_did_royal_control/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1s05snr/in_medieval_england_what_did_royal_control/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s0js1r",
+      "title": "Why do Tuareg women not veil their face and neck while the men do?",
+      "subreddit": "AskHistorians",
+      "author": "/u/llittleserie",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>The Tuareg are a muslim Berbeb nation that inhabits central Sahara. Their men famously wear a <em>tagelmust</em>, which is an indigo-coloured cotton veil or turban. T",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1s0js1r/why_do_tuareg_women_not_veil_their_face_and_neck/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1s0js1r/why_do_tuareg_women_not_veil_their_face_and_neck/",
       "domain": "reddit",
       "category": "General"
     },
@@ -379,15 +366,28 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s0js1r",
-      "title": "Why do Tuareg women not veil their face and neck while the men do?",
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1rzxkob",
+      "title": "Cucumbers and avocados are berries, strawberries aren't, carrots are roots, broccoli is a flower, spinach is a leaf. Since when have we been classifying such diverse plant parts colloquially into \"fruits\" and \"vegetables\"? Assuming this system isn't universal, who exactly is \"we\"?",
       "subreddit": "AskHistorians",
-      "author": "/u/llittleserie",
+      "author": "/u/ExternalBoysenberry",
       "score": 0,
       "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>The Tuareg are a muslim Berbeb nation that inhabits central Sahara. Their men famously wear a <em>tagelmust</em>, which is an indigo-coloured cotton veil or turban. T",
-      "url": "https://www.reddit.com/r/AskHistorians/comments/1s0js1r/why_do_tuareg_women_not_veil_their_face_and_neck/",
-      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1s0js1r/why_do_tuareg_women_not_veil_their_face_and_neck/",
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I don't want to make the question too big, but would also be curious to hear about categories for &quot;stuff that grows that we eat&quot; beyond the produce aisle: h",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1rzxkob/cucumbers_and_avocados_are_berries_strawberries/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1rzxkob/cucumbers_and_avocados_are_berries_strawberries/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/AskHistorians/top/t3_1s03v6k",
+      "title": "Did the writers of the U.S. Constitution consciously reject snap elections in favor of fixed terms? If so, why? Or were snap elections introduced to Britain after American independence?",
+      "subreddit": "AskHistorians",
+      "author": "/u/ArmandoAlvarezWF",
+      "score": 0,
+      "comments": 0,
+      "preview": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ArmandoAlvarezWF\"> /u/ArmandoAlvarezWF </a> <br /> <span><a href=\"https://www.reddit.com/r/AskHistorians/comments/1s03v6k/did_the_writers_",
+      "url": "https://www.reddit.com/r/AskHistorians/comments/1s03v6k/did_the_writers_of_the_us_constitution/",
+      "commentsUrl": "https://www.reddit.com/r/AskHistorians/comments/1s03v6k/did_the_writers_of_the_us_constitution/",
       "domain": "reddit",
       "category": "General"
     },
@@ -535,19 +535,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/meditation/top/t3_1rzstoh",
-      "title": "Meditation practice for mental solving and ruminations.",
-      "subreddit": "meditation",
-      "author": "/u/drefgjj",
-      "score": 0,
-      "comments": 0,
-      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I have been diagnosed with ADHD and OCD, and I think meditation can help me in acceptance of myself and my experiences and help with my ruminations and mental solving",
-      "url": "https://www.reddit.com/r/Meditation/comments/1rzstoh/meditation_practice_for_mental_solving_and/",
-      "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1rzstoh/meditation_practice_for_mental_solving_and/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/meditation/top/t3_1s0fp1z",
       "title": "Sometimes when I\u2019m meditating I can see a mirror image of myself",
       "subreddit": "meditation",
@@ -583,6 +570,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>I have been practicing meditation for the last 4 months now. Primarily for anxiety and ocd type thoughts that loop on n on. </p> <p>The first couple of weeks my medit",
       "url": "https://www.reddit.com/r/Meditation/comments/1rzwc0f/people_meditating_for_anxiety_and_their_journey/",
       "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1rzwc0f/people_meditating_for_anxiety_and_their_journey/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/meditation/top/t3_1rzxum3",
+      "title": "Imagining breathing noises",
+      "subreddit": "meditation",
+      "author": "/u/Shot_Bandicoot_395",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>I've been doing anapana meditation. My breath is really subtle and I can't really feel/hear much when I do it. And I think for that reason, I'm sort of imagining brea",
+      "url": "https://www.reddit.com/r/Meditation/comments/1rzxum3/imagining_breathing_noises/",
+      "commentsUrl": "https://www.reddit.com/r/Meditation/comments/1rzxum3/imagining_breathing_noises/",
       "domain": "reddit",
       "category": "General"
     },
@@ -652,19 +652,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1rzsdc3",
-      "title": "Purple Heart splines in maple",
-      "subreddit": "woodworking",
-      "author": "/u/LumacraftStudio",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rzsdc3/purple_heart_splines_in_maple/\"> <img alt=\"Purple Heart splines in maple\" src=\"https://external-preview.redd.it/d280M3E5",
-      "url": "https://www.reddit.com/r/woodworking/comments/1rzsdc3/purple_heart_splines_in_maple/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rzsdc3/purple_heart_splines_in_maple/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1s005cg",
       "title": "New reference day",
       "subreddit": "woodworking",
@@ -674,6 +661,19 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>my latest order from Lost Art Press has arrived. I'll admit, when I realized that the 4 volume set, while not perfect bound, thank goodness, are still soft cover. On ",
       "url": "https://www.reddit.com/r/woodworking/comments/1s005cg/new_reference_day/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s005cg/new_reference_day/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1s0e5bk",
+      "title": "Walnut TV stand",
+      "subreddit": "woodworking",
+      "author": "/u/adventuresbygeordi",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1s0e5bk/walnut_tv_stand/\"> <img alt=\"Walnut TV stand\" src=\"https://preview.redd.it/unolmxp9gjqg1.jpg?width=140&amp;height=140&am",
+      "url": "https://www.reddit.com/r/woodworking/comments/1s0e5bk/walnut_tv_stand/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s0e5bk/walnut_tv_stand/",
       "domain": "reddit",
       "category": "General"
     },
@@ -704,19 +704,6 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1s0e5bk",
-      "title": "Walnut TV stand",
-      "subreddit": "woodworking",
-      "author": "/u/adventuresbygeordi",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1s0e5bk/walnut_tv_stand/\"> <img alt=\"Walnut TV stand\" src=\"https://preview.redd.it/unolmxp9gjqg1.jpg?width=140&amp;height=140&am",
-      "url": "https://www.reddit.com/r/woodworking/comments/1s0e5bk/walnut_tv_stand/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s0e5bk/walnut_tv_stand/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
       "id": "https://www.reddit.com/r/woodworking/top/t3_1rzumlw",
       "title": "Bought a ripping blade.",
       "subreddit": "woodworking",
@@ -726,19 +713,6 @@
       "preview": "<!-- SC_OFF --><div class=\"md\"><p>My dad was a broke wood worker. All the tools we used was from Harbor Frieght, and we only got wood from HD or Lowe\u2019s. After he passed, I got all his tools. Some I\u2019ve",
       "url": "https://www.reddit.com/r/woodworking/comments/1rzumlw/bought_a_ripping_blade/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rzumlw/bought_a_ripping_blade/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1s065kw",
-      "title": "I bought a little pizza oven, so of course I had to throw together a couple peels.",
-      "subreddit": "woodworking",
-      "author": "/u/KillerSpud",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1s065kw/i_bought_a_little_pizza_oven_so_of_course_i_had/\"> <img alt=\"I bought a little pizza oven, so of course I had to throw t",
-      "url": "https://www.reddit.com/r/woodworking/comments/1s065kw/i_bought_a_little_pizza_oven_so_of_course_i_had/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s065kw/i_bought_a_little_pizza_oven_so_of_course_i_had/",
       "domain": "reddit",
       "category": "General"
     },
@@ -756,15 +730,28 @@
       "category": "General"
     },
     {
-      "id": "https://www.reddit.com/r/woodworking/top/t3_1rzsif6",
-      "title": "Buying wood at the lumberyard is one of my favourite steps in a project!",
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1s065kw",
+      "title": "I bought a little pizza oven, so of course I had to throw together a couple peels.",
       "subreddit": "woodworking",
-      "author": "/u/Gibek2600",
+      "author": "/u/KillerSpud",
       "score": 0,
       "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1rzsif6/buying_wood_at_the_lumberyard_is_one_of_my/\"> <img alt=\"Buying wood at the lumberyard is one of my favourite steps in a ",
-      "url": "https://www.reddit.com/r/woodworking/comments/1rzsif6/buying_wood_at_the_lumberyard_is_one_of_my/",
-      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1rzsif6/buying_wood_at_the_lumberyard_is_one_of_my/",
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1s065kw/i_bought_a_little_pizza_oven_so_of_course_i_had/\"> <img alt=\"I bought a little pizza oven, so of course I had to throw t",
+      "url": "https://www.reddit.com/r/woodworking/comments/1s065kw/i_bought_a_little_pizza_oven_so_of_course_i_had/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s065kw/i_bought_a_little_pizza_oven_so_of_course_i_had/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1s0lmj5",
+      "title": "Beautiful spalted maple",
+      "subreddit": "woodworking",
+      "author": "/u/Adaptacije78",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1s0lmj5/beautiful_spalted_maple/\"> <img alt=\"Beautiful spalted maple\" src=\"https://preview.redd.it/k0t9lol0mlqg1.jpg?width=140&a",
+      "url": "https://www.reddit.com/r/woodworking/comments/1s0lmj5/beautiful_spalted_maple/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s0lmj5/beautiful_spalted_maple/",
       "domain": "reddit",
       "category": "General"
     },
@@ -778,6 +765,19 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/woodworking/comments/1s07zlf/friend_gave_me_a_hitachi_router_does_anyone_have/\"> <img alt=\"Friend gave me a Hitachi router... does anyone have any id",
       "url": "https://www.reddit.com/r/woodworking/comments/1s07zlf/friend_gave_me_a_hitachi_router_does_anyone_have/",
       "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s07zlf/friend_gave_me_a_hitachi_router_does_anyone_have/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
+      "id": "https://www.reddit.com/r/woodworking/top/t3_1s00bt8",
+      "title": "Is it realistic to have someone make a custom urn from a particular tree?",
+      "subreddit": "woodworking",
+      "author": "/u/ThinkCantaloupe8265",
+      "score": 0,
+      "comments": 0,
+      "preview": "<!-- SC_OFF --><div class=\"md\"><p>For background, my dad's favorite place to be was at his dad's property by the lake. Some of my favorite memories with him were there. My grandfather can't keep up wi",
+      "url": "https://www.reddit.com/r/woodworking/comments/1s00bt8/is_it_realistic_to_have_someone_make_a_custom_urn/",
+      "commentsUrl": "https://www.reddit.com/r/woodworking/comments/1s00bt8/is_it_realistic_to_have_someone_make_a_custom_urn/",
       "domain": "reddit",
       "category": "General"
     },
@@ -834,6 +834,19 @@
       "category": "General"
     },
     {
+      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1s0gqn6",
+      "title": "Massive elephant herd reappears in Congo\u2019s Virunga Park after near collapse",
+      "subreddit": "upliftingnews",
+      "author": "/u/Bull1753361",
+      "score": 0,
+      "comments": 0,
+      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1s0gqn6/massive_elephant_herd_reappears_in_congos_virunga/\"> <img alt=\"Massive elephant herd reappears in Congo\u2019s Virunga Park",
+      "url": "https://www.reddit.com/r/UpliftingNews/comments/1s0gqn6/massive_elephant_herd_reappears_in_congos_virunga/",
+      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1s0gqn6/massive_elephant_herd_reappears_in_congos_virunga/",
+      "domain": "reddit",
+      "category": "General"
+    },
+    {
       "id": "https://www.reddit.com/r/upliftingnews/top/t3_1s00dfq",
       "title": "\u2018Miracle\u2019 solar tech passes key milestone",
       "subreddit": "upliftingnews",
@@ -856,19 +869,6 @@
       "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1s012lh/london_san_francisco_and_beijings_remarkable/\"> <img alt=\"London, San Francisco and Beijing's &quot;Remarkable Reducti",
       "url": "https://www.reddit.com/r/UpliftingNews/comments/1s012lh/london_san_francisco_and_beijings_remarkable/",
       "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1s012lh/london_san_francisco_and_beijings_remarkable/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1s0gqn6",
-      "title": "Massive elephant herd reappears in Congo\u2019s Virunga Park after near collapse",
-      "subreddit": "upliftingnews",
-      "author": "/u/Bull1753361",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1s0gqn6/massive_elephant_herd_reappears_in_congos_virunga/\"> <img alt=\"Massive elephant herd reappears in Congo\u2019s Virunga Park",
-      "url": "https://www.reddit.com/r/UpliftingNews/comments/1s0gqn6/massive_elephant_herd_reappears_in_congos_virunga/",
-      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1s0gqn6/massive_elephant_herd_reappears_in_congos_virunga/",
       "domain": "reddit",
       "category": "General"
     },
@@ -908,19 +908,6 @@
       "preview": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/metacyan\"> /u/metacyan </a> <br /> <span><a href=\"https://www.smithsonianmag.com/innovation/this-high-school-student-invented-a-filter-tha",
       "url": "https://www.reddit.com/r/UpliftingNews/comments/1s02nu2/this_high_school_student_invented_a_filter_that/",
       "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1s02nu2/this_high_school_student_invented_a_filter_that/",
-      "domain": "reddit",
-      "category": "General"
-    },
-    {
-      "id": "https://www.reddit.com/r/upliftingnews/top/t3_1rzs7jq",
-      "title": "Dog finds Canadian message in a bottle on Aberdeenshire beach",
-      "subreddit": "upliftingnews",
-      "author": "/u/sparki_black",
-      "score": 0,
-      "comments": 0,
-      "preview": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UpliftingNews/comments/1rzs7jq/dog_finds_canadian_message_in_a_bottle_on/\"> <img alt=\"Dog finds Canadian message in a bottle on Aberdeenshire beach\" ",
-      "url": "https://www.reddit.com/r/UpliftingNews/comments/1rzs7jq/dog_finds_canadian_message_in_a_bottle_on/",
-      "commentsUrl": "https://www.reddit.com/r/UpliftingNews/comments/1rzs7jq/dog_finds_canadian_message_in_a_bottle_on/",
       "domain": "reddit",
       "category": "General"
     },
